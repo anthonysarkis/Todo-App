@@ -1,2 +1,2 @@
-# Review-App
-Review application made with React Native
+# Todo-App
+Simple Todo App made with React Native
